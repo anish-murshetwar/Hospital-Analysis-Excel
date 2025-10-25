@@ -25,13 +25,13 @@ Notes
 <img width="1825" height="768" alt="Screenshot 2025-09-02 171231" src="https://github.com/user-attachments/assets/bd4d2cf0-05dd-4295-9dca-964674eac389" />
 
  2.
-<img width="1640" height="697" alt="Screenshot 2025-10-24 172343" src="https://github.com/user-attachments/assets/6e41c378-fb9a-4de2-a61b-98e8489f875d" />
+<img width="1568" height="719" alt="Screenshot 2025-10-24 230646" src="https://github.com/user-attachments/assets/97e09c7d-71a5-4a4b-9763-59fda5cefc9b" />
 
  3.
-<img width="1734" height="690" alt="Screenshot 2025-10-24 172404" src="https://github.com/user-attachments/assets/817da177-1739-4c7b-bce9-5df10595f431" />
+<img width="1588" height="725" alt="Screenshot 2025-10-24 230709" src="https://github.com/user-attachments/assets/5d7c9074-94f6-435e-a17b-9223cab83b61" />
 
  4.
-<img width="1542" height="696" alt="Screenshot 2025-10-24 172446" src="https://github.com/user-attachments/assets/41c6e088-6ea5-43e9-bcb7-b3fd36914767" />
+<img width="1466" height="735" alt="Screenshot 2025-10-24 230729" src="https://github.com/user-attachments/assets/5bc8f85a-840b-4650-9415-46fcf9ef0e16" />
 
 
 Files
