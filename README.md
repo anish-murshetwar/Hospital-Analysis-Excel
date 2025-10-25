@@ -27,12 +27,15 @@ Notes
  2.
 <img width="1568" height="719" alt="Screenshot 2025-10-24 230646" src="https://github.com/user-attachments/assets/97e09c7d-71a5-4a4b-9763-59fda5cefc9b" />
 
+    This Represents Averege Wait Time of the Patient which is directly connected to main dashboard.
  3.
 <img width="1588" height="725" alt="Screenshot 2025-10-24 230709" src="https://github.com/user-attachments/assets/5d7c9074-94f6-435e-a17b-9223cab83b61" />
 
+    This Represents Daily ER NO. of Patients  which is directly connected to main dashboard.
  4.
 <img width="1466" height="735" alt="Screenshot 2025-10-24 230729" src="https://github.com/user-attachments/assets/5bc8f85a-840b-4650-9415-46fcf9ef0e16" />
 
+    This Represents Satisfaction score of the Patient which is directly connected to main dashboard.
 
 Files
 - Hospital-Dashboard.xlsx — main workbook with dashboard, tables and macros
